@@ -1,0 +1,16 @@
+{
+  "name": "chalk_app",
+  "version": "1.0.0",
+  "description": "Chalk app for colouring",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eseosa Otasowie",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "yargs": "^17.3.1"
+  }
+}
